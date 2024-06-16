@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Bee Shy/Documents/GameDevelopement/FoodFighterGame/Unreal/FoodFighingGame/Content/OurGame/Maps/TestMap.umap",
+				"C:/Users/Bee Shy/Documents/GameDevelopement/FoodFighterGame/Unreal/FoodFighingGame/Content/OurGame/Blueprints/Playerblueprints/PLayerCharacter.uasset",
+				"C:/Users/Bee Shy/Documents/GameDevelopement/FoodFighterGame/Unreal/FoodFighingGame/Content/OurGame/Blueprints/GameModes/TestgameMode.uasset",
 				"C:/Users/Bee Shy/Documents/Unreal Projects/FoodFighingGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
